@@ -1,0 +1,53 @@
+{
+	"name": "PepegaMod",
+	"author": "RXDXCTXD",
+	"description": "Changes many items. Adds barrel options to G17, adds more options and rebalances the AKS-74U and its sub-variants, adds stocks to MP5K. Adds two AR-15 lowers (M16 3rd burst and a prototype M4 reciever).",
+	"license": "None",
+	"version": "1.0.0",
+	"dependencies": [],
+	"src":{},
+	"res":{},
+	"db": {
+		"items": {
+			"5a7ae0c351dfba0017554310": "db/items/5a7ae0c351dfba0017554310.json",
+			"5b1fa9b25acfc40018633c01": "db/items/5b1fa9b25acfc40018633c01.json",
+			"57dc334d245977597164366f": "db/items/57dc334d245977597164366f.json",
+			"57dc2fa62459775949412633": "db/items/57dc2fa62459775949412633.json",
+			"5839a40f24597726f856b511": "db/items/5839a40f24597726f856b511.json",
+			"5d2f261548f03576f500e7b7": "db/items/5d2f261548f03576f500e7b7.json",
+			"583990e32459771419544dd2": "db/items/583990e32459771419544dd2.json",
+			"5447a9cd4bdc2dbd208b5562": "db/items/5447a9cd4bdc2dbd208b5562.json",
+			"5447a9cd4bdc2dbd208b4556": "db/items/5447a9cd4bdc2dbd208b4556.json"
+		},
+		"assort":{
+			"ragfair":{
+				"barter_schemes":{
+					"5447a9cd4bdc2dbd208b4556": "db/assort/ragfair/barter_scheme/5447a9cd4bdc2dbd208b4556.json",
+					"5447a9cd4bdc2dbd208b5562": "db/assort/ragfair/barter_scheme/5447a9cd4bdc2dbd208b5562.json"
+				},
+				"items":{
+					"5447a9cd4bdc2dbd208b4556": "db/assort/ragfair/items/5447a9cd4bdc2dbd208b4556.json",
+					"5447a9cd4bdc2dbd208b5562": "db/assort/ragfair/items/5447a9cd4bdc2dbd208b5562.json"
+				},
+				"loyal_level_items":{
+					"5447a9cd4bdc2dbd208b4556": "db/assort/ragfair/loyal_level_items/5447a9cd4bdc2dbd208b4556.json",
+					"5447a9cd4bdc2dbd208b5562": "db/assort/ragfair/loyal_level_items/5447a9cd4bdc2dbd208b5562.json"
+				}
+			}
+		},
+		"locales":{
+			"en":{
+				"templates":{
+					"5447a9cd4bdc2dbd208b4556": "db/locales/en/templates/5447a9cd4bdc2dbd208b4556.json",
+					"5447a9cd4bdc2dbd208b5562": "db/locales/en/templates/5447a9cd4bdc2dbd208b5562.json"
+				}
+			}
+		},
+		"templates":{
+			"items":{
+				"5447a9cd4bdc2dbd208b4556": "db/templates/items/5447a9cd4bdc2dbd208b4556.json",
+				"5447a9cd4bdc2dbd208b5562": "db/templates/items/5447a9cd4bdc2dbd208b5562.json"
+			}
+		}
+	}
+}
